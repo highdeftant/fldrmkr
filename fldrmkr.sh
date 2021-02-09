@@ -34,15 +34,3 @@ echo "------   SCRIPT COMPLETE   ------"
 echo "------    Built By: Ant    ------"
 
 exit
-
-
-
-# Update Log:
-# *Ver 0.2.5*
-# added "Name Project" to read command to minimize script
-# Added Time/Date Description in intro
-# Added a update log lol
-# Added seperator between greeting and folder creation
-
-
-# Compatible with Linux/MACOSX
